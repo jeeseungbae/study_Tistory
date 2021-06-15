@@ -42,6 +42,7 @@
 - [Dependency Injection ( 의존성 주입 )](https://jsb-diary0011.tistory.com/28?category=913764)
 - [Spring의 개념과 MVC패턴](https://jsb-diary0011.tistory.com/27?category=913764)
 - [쿠키 vs 세션 vs 캐시](https://jsb-diary0011.tistory.com/26?category=913764)
+- [@Transactional 트랜잭션](https://jsb-diary0011.tistory.com/68)
 
 ### 👉javascript 공부 정리
 - [간단한 javascript axios 이용해서 요청, 응답하기](https://jsb-diary0011.tistory.com/39?category=919696)
