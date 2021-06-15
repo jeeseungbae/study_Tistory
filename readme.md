@@ -31,6 +31,7 @@
 - [객체지향 프로그래밍 OOP](https://jsb-diary0011.tistory.com/53?category=921310)
 - [JAVA JVM/JRE/JDK 개념](https://jsb-diary0011.tistory.com/22?category=921310)
 
+
 ### 👉Spring 공부 정리
 - [JPA SQL 성능 개선 - findbyid](https://jsb-diary0011.tistory.com/47?category=913764)
 - [Spring boot mockMvc Test](https://jsb-diary0011.tistory.com/41?category=913764)
@@ -42,7 +43,12 @@
 - [Dependency Injection ( 의존성 주입 )](https://jsb-diary0011.tistory.com/28?category=913764)
 - [Spring의 개념과 MVC패턴](https://jsb-diary0011.tistory.com/27?category=913764)
 - [쿠키 vs 세션 vs 캐시](https://jsb-diary0011.tistory.com/26?category=913764)
+<<<<<<< HEAD
 - [@Transactional 트랜잭션](https://jsb-diary0011.tistory.com/68)
+=======
+- [JPA vs Mybatis](https://jsb-diary0011.tistory.com/66)
+
+>>>>>>> f7e776dbc2df76db8051882bc12c623a1a425bb6
 
 ### 👉javascript 공부 정리
 - [간단한 javascript axios 이용해서 요청, 응답하기](https://jsb-diary0011.tistory.com/39?category=919696)
